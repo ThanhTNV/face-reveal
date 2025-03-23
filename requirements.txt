@@ -1,4 +1,4 @@
 tensorflow==2.10.0
-opencv-python==4.10.0
+opencv-python==4.10.0.84
 numpy==1.26.4
 mtcnn==1.0.0
